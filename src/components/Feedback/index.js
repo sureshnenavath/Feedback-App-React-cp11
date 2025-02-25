@@ -15,7 +15,7 @@ class Feedback extends Component {
       <div className="main-container">
         <div className="container">
           <h1 className="main-heading">
-            How to are you with our customer support performance
+            How satisfied are you with our customer support performance
           </h1>
           <ul className="ul-container">
             {emojis.map(eachItem => (
