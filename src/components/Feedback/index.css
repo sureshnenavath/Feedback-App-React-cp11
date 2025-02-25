@@ -1,0 +1,53 @@
+/* Write your CSS code here. */
+.main-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffebeb, #ffc0bb);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffff;
+  max-width: 50%;
+  min-height: 30%;
+  border-radius: 20px;
+  padding: 20px;
+}
+.main-heading {
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+.ul-container {
+  display: flex;
+  justify-content: space-around;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-url {
+  height: 50%;
+  width: 50%;
+}
+.container-thank-you {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffff;
+  max-width: 50%;
+  min-height: 30%;
+  border-radius: 20px;
+  padding: 30px;
+}
+.love-img {
+  height: 25%;
+  width: 25%;
+}
